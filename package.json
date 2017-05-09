@@ -5,6 +5,7 @@
   "dependencies": {
     "mathjs": "^3.12.3",
     "react": "^15.5.4",
+    "react-google-charts": "^1.5.4-alpha.1",
     "react-chartjs-2": "^2.1.0",
     "react-dom": "^15.5.4"
   },
